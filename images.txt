@@ -3,4 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mcr.microsoft.com/windows/nanoserver:latest
+#mcr.microsoft.com/windows/nanoserver:latest
+docker pull mcr.microsoft.com/windows/nanoserver:latest
