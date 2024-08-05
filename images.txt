@@ -9,4 +9,5 @@
 #registry:2
 #ubuntu:18.04
 #busybox
-mysql
+#mysql
+redis
