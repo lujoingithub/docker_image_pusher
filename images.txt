@@ -5,4 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mcr.microsoft.com/windows/nanoserver:latest
 #microsoft/windowsservercore
-pull ubuntu:18.04
+#pull ubuntu:18.04
+registry:2
