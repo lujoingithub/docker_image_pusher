@@ -6,4 +6,4 @@
 #mcr.microsoft.com/windows/nanoserver:latest
 #microsoft/windowsservercore
 #pull ubuntu:18.04
-registry:2
+registry
